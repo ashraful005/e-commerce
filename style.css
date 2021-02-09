@@ -1,0 +1,92 @@
+body{
+    background-color: #F8F8F8;
+}
+.container{
+    margin-bottom: 100px;
+}
+.pink-bg{
+    background-color: #FBEBE9;
+    border-radius: 7px;
+}
+.carousel-item{
+    padding: 40px;
+}
+.price{
+    color: #FF136F;
+    font-size: 35px;
+}
+.buy-button{
+    /* background: linear-gradient(180deg, #FF5196, #FF2178) ; */
+    background-image: linear-gradient(to bottom, #FF5196 10%, #FF2178 90%);
+    border-radius: 7px;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    margin-top: 10px;
+}
+.category img{
+    width: 100px;
+}
+.cate1, .cate2, .cate3{
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+.cate1{
+    background-color: #FF9C35;
+}
+.cate2{
+    background-color: #FF3182;
+}
+.cate3{
+    background-color: #3F19F9;
+}
+.mg-btm{
+    margin-bottom: 20px;
+}
+#merge{
+    margin-bottom: 20px;
+}
+.card{
+    border:none;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: #FFFFFF;
+}
+#card-footer{
+    border-radius: 10px;
+}
+.upper{
+    text-transform: uppercase;
+}
+.email{
+    height: 45px;
+    width: 250px;
+    border-radius: 5px;
+    /* margin-right: 20px; */
+    border: none;
+}
+#subscribe{
+    height: 400px;
+    text-align: center;
+    border-radius: 20px;
+}
+#subscribe input{
+    margin-top: 20px;
+}
+#subs-text{
+    color: #666362;
+    font-family: "Open Sans", sans-serif;
+}
+#footer{
+    text-align: center;
+    background-color: teal;
+    color: yellow;
+}
+.colored{
+    color: #FEAE2F;
+    font-size: 18px;
+}
